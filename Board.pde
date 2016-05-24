@@ -140,4 +140,6 @@ void draw(){
   //deck of cards
   fill(black);
   rect(335, 300, 130, 200);
+  
+  
 }
